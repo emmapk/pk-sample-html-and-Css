@@ -1,0 +1,42 @@
+body{
+    margin: 30px;
+    padding: 0;
+    background-image:url(imran.jpg);
+    line-height:1;
+    
+}
+.blue1{
+    color: blue;
+    text-align: center;
+}
+hr {
+    height: 1px;
+    background-color: yellow;
+    border: none;
+}
+.red{
+    color:red;
+}
+.green{
+    color: rgb(6, 250, 14);
+
+}
+
+.yellow{
+    color: yellow;
+}
+.gold{
+    color: gold;
+}
+.blue{
+    color: blue;
+}
+.black{
+    color: rgba(0, 0, 255, 0.714);
+}
+.pink{
+    color: violet;
+}
+.shadow{
+    text-shadow: red;
+}
